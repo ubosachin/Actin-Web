@@ -135,7 +135,7 @@ const Dashboard = () => {
             <StatCard 
               icon={TrendingUp} 
               title="Growth Rate" 
-              value="+12.5%" 
+              value="+20.08%" 
               color="bg-blue-500"
             />
             <SystemStatus />
@@ -145,7 +145,7 @@ const Dashboard = () => {
             <StatCard 
               icon={Cpu} 
               title="CPU Load" 
-              value="65%" 
+              value="10%" 
               color="bg-orange-500"
             />
             <Alerts />
