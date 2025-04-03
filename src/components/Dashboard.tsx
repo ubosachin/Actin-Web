@@ -103,13 +103,13 @@ const Dashboard = () => {
             <StatCard 
               icon={Server} 
               title="Active Servers" 
-              value="20" 
+              value="29" 
               color="bg-cyan-500"
             />
             <StatCard 
               icon={Users} 
               title="Total Users" 
-              value="10,820+" 
+              value="24,300+" 
               color="bg-purple-500"
             />
             <StatCard 
