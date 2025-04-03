@@ -115,7 +115,7 @@ const Dashboard = () => {
             <StatCard 
               icon={Terminal} 
               title="Total Commands Executed" 
-              value="58,392" 
+              value="183,767+" 
               color="bg-green-500"
             />
             <StatCard 
